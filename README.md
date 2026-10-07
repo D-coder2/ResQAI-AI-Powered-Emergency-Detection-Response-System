@@ -1,4 +1,4 @@
-# Smart Emergency AI System 🚨🤖
+#ResQAI — AI-Powered Emergency Detection & Response System 🚨🤖
 ## Overview
 Smart Emergency AI System is an AI-based emergency and accident detection platform designed to improve emergency response time and public safety. The system combines machine learning, GPS tracking, interactive maps, and healthcare support features to provide real-time emergency assistance.
 
